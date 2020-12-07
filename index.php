@@ -8,7 +8,7 @@
     }
   </style>
   <body>
-    <h2>Form | Add Data</h2>
+    <h1>Form | Add Data</h1>
     <form action="includes/index.inc.php" method="POST">
       <label class="label" id="full">Full Name</label>
       <input type="text" required class="input" id="inp1" name="name" /><br />
